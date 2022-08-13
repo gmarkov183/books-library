@@ -1,0 +1,12 @@
+@import "./components/Header/header.css";
+@import "./components/Search/search.css";
+
+
+body {
+    background-image: url('/public/images/featured_libraries.jpg');
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
