@@ -1,14 +1,14 @@
 export const Search = () => {
     return(
         <div>
-        <form class="search">
+        <form className="search">
           <input
-            class="search-input"
+            className="search-input"
             type="search"
-            autocomplete="off"
+            autoComplete="off"
             placeholder="Search Books"
           />
-          <button class="btn" type="submit">
+          <button className="btn" type="submit">
             Search
           </button>
         </form>

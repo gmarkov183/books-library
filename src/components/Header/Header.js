@@ -13,7 +13,7 @@ export const Header = () => {
       </nav>
 
       <h1>
-        <a class="home" href="#">
+        <a className="home" href="#">
           Books Explosion
         </a>
       </h1>
